@@ -1,6 +1,6 @@
 # Hello everyone, I'm Emmanuel Nyandu Kagarabi
 
-I have a  background in Mathematics and am currently pursuing my Master's in Artificial Intelligence for Science, fully funded by `Google DeepMind`, at *AIMS South Africa* -- *Stellenbosch University*.
+I have a  background in Mathematics and am currently pursuing my Master's in Artificial Intelligence for Science, fully funded by `Google DeepMind`, at `AIMS South Africa` -- `Stellenbosch University`.
 
 My interests span the fundamental mathematics of Machine Learning, where I am deeply curious about understanding concepts in depth. I am also keen on Computer Vision, Reinforcement Learning, and Deep Learning, culminating in my passion for `Generative Artificial Intelligence`. I am particularly focused on using Diffusion Models, VAEs, and GANs to contribute to innovative solutions and the development of large models.
 
