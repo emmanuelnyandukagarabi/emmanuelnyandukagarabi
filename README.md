@@ -1,4 +1,4 @@
-#Hello everyone, I'm Emmanuel Nyandu Kagarabi.
+# Hello everyone, I'm Emmanuel Nyandu Kagarabi.
 
 I have a background in `Mathematics` and I am currently pursuing my Master's degree in `Artificial Intelligence for Science` at `AIMS South Africa` - `Stellenbosch University`. My studies are fully funded by Google DeepMind. You can find my CV [here](https://github.com/emmanuelnyandukagarabi/Curriculum-Vitae).
 
