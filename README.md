@@ -1,8 +1,5 @@
-# Hello everyone, I'm Emmanuel Nyandu Kagarabi.
+# Hello everyone, I am Emmanuel Nyandu Kagarabi!
 
-I have a background in `Mathematics` and I am currently pursuing my Master's degree in `Artificial Intelligence for Science` at `AIMS South Africa` - `Stellenbosch University`. My studies are fully funded by Google DeepMind. You can find my CV [here](https://github.com/emmanuelnyandukagarabi/Curriculum-Vitae).
+I hold a Bachelor’s degree in `Mathematics`, complemented by teaching experience, and a Master’s in `Artificial Intelligence for Science` from AIMS South Africa & Stellenbosch University, fully funded by the prestigious `Google DeepMind` Scholarship. I have solid skills in Optimization, Machine Learning, Computer Vision, Reinforcement Learning, and Deep Learning, with advanced proficiency in Python programming. I'm passionate about both the theoretical foundations of Mathematics and AI, and their real-world applications in solving complex challenges. You can find my CV [here](https://github.com/emmanuelnyandukagarabi/Curriculum-Vitae).
 
-My interests lie in the fundamental mathematics of Machine Learning. I am deeply curious about understanding concepts in depth. Additionally, I am interested in Computer Vision, and Deep Learning, with a specific focus on `Generative Artificial Intelligence`. I am actively involved in innovating and developing robust large-scale models by leveraging `Diffusion Models`, `VAEs`, and `GANs`.
-
-I am open to engaging in discussions about the role of Mathematics in AI. If you would like to discuss or collaborate, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/emmanuel-nyandu-kagarabi-5410a4304/), [Facebook](https://www.facebook.com/emmanuel.kagarabi), or via [Gmail](emmanuelnk@aims.ac.za). Thank you!
-
+Currently, I am actively seeking opportunities, whether that be full-time roles, internships, or further academic pursuits such as a Master’s or PhD. If you're open to connecting or have any opportunities, I would love to hear from you!. If you would like to discuss or collaborate, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/emmanuel-nyandu-kagarabi-5410a4304/), [Facebook](https://www.facebook.com/emmanuel.kagarabi), or via [Gmail](emmanuelnk@aims.ac.za). Thank you!
