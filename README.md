@@ -1,5 +1,2 @@
-# Hello everyone, I am Emmanuel Nyandu Kagarabi!
-
-I hold a Bachelor’s degree in `Mathematics`, complemented by teaching experience, and a Master’s in `Artificial Intelligence for Science` from AIMS South Africa & Stellenbosch University, fully funded by the prestigious `Google DeepMind` Scholarship. I have solid skills in Optimization, Machine Learning, Computer Vision, Reinforcement Learning, and Deep Learning, with advanced proficiency in Python programming. I'm passionate about both the theoretical foundations of Mathematics and AI, and their real-world applications in solving complex challenges. You can find my CV [here](https://github.com/emmanuelnyandukagarabi/Curriculum-Vitae).
-
-Currently, I am actively seeking opportunities, whether that be full-time roles, internships, or further academic pursuits such as a Master’s or PhD. If you're open to connecting or have any opportunities, I would love to hear from you!, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/emmanuel-nyandu-kagarabi-5410a4304/), [Facebook](https://www.facebook.com/emmanuel.kagarabi), or via [Gmail](emmanuelnk@aims.ac.za). Thank you!
+# Ciao, I am Emmanuel Nyandu Kagarabi!
+Mathematician & AI researcher, former Google DeepMind Scholar. Currently at SISSA studying Data Management & Curation with a focus on FAIR and reproducible science. Interested in scientific ML and PhD opportunities.
