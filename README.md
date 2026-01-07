@@ -1,2 +1,2 @@
-# Ciao, I am Emmanuel Nyandu Kagarabi!
-Mathematician & AI researcher, former Google DeepMind Scholar. Currently at SISSA studying Data Management & Curation with a focus on FAIR and reproducible science. Interested in scientific ML and PhD opportunities.
+Ciao!, I am **Emmanuel Nyandu Kagarabi**,
+Mathematician (Bac+5), Machine Learning Engineer (MSc AI for Science), and Data Manager/Curator/Scientist (MSc Data Management & Curation), eager to contribute to cutting-edge industry or PhD-track academic projects.
